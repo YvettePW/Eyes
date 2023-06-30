@@ -9,7 +9,7 @@ Additional functionality that would be helpful to a user for future iterations w
 <br></br>
 MIT License
 
-Copyright (c) 2020 John Williams
+Copyright (c) 2023 Yvette Watson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
